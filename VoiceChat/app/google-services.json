@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "508019164781",
+    "firebase_url": "https://voicechat-70519-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "voicechat-70519",
+    "storage_bucket": "voicechat-70519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508019164781:android:d25242f678cf85e9e6e164",
+        "android_client_info": {
+          "package_name": "com.app.voicechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRTpfk0g9Y7FoO9EuuB6KXhrvHStvhfOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
